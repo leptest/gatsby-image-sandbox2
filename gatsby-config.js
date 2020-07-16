@@ -26,7 +26,7 @@ module.exports = {
 			options: {
 				// dirs: 'static/img',
 				dirs: {
-					'static/img': 'myFilePathSchema',
+					static: 'myFilePathSchema',
 				},
 			},
 		},

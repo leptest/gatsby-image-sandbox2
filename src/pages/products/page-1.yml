@@ -1,5 +1,5 @@
 frontmatter:
   templateKey: product-page
 title: page 1
-imageUrl: testpattern-hd-1080.jpg
+imageUrl: /img/testpattern-hd-1080.jpg
 testString: page 1 test string
