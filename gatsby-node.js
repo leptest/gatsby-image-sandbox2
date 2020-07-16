@@ -80,6 +80,10 @@ exports.createPages = ({ actions, graphql }) => {
 exports.createSchemaCustomization = ({ actions }) => {
 	const { createTypes } = actions;
 
+	/**
+	 * You can also do this:
+	 * imageUrl: File @fileByAbsolutePath(path: "static/img")
+	 */
 	const typeDefs = `
 		type ProductsYaml implements Node @infer {
 			testString: String

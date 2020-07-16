@@ -4,11 +4,13 @@ import Layout from '../components/layout';
 
 const ProductPage = ({ data }) => {
 	console.log(data.productsYaml);
-
+	const imgSrc = data.productsYaml.imageUrl.childImageSharp.resize.src
 	return (
 		<Layout>
 			<h1>Product page</h1>
-			<p>Please check console. Image is coming back as <strong>null</strong>.</p>
+			<p>Please check console. Image is coming back as <strong>{imgSrc}</strong>.</p>
+
+			<img style={{ maxWidth: '100%' }} src={imgSrc} alt="product" />
 		</Layout>
 	);
 };
