@@ -29,7 +29,7 @@
     "gatsby-plugin-sharp": "2.6.19",
     "gatsby-remark-images": "3.3.19",
     "gatsby-remark-relative-images": "0.3.0",
-    "gatsby-schema-field-absolute-path": "1.1.1",
+    "gatsby-schema-field-absolute-path": "^1.1.2",
     "gatsby-source-filesystem": "2.3.19",
     "gatsby-transformer-remark": "2.8.25",
     "gatsby-transformer-sharp": "2.5.11",
