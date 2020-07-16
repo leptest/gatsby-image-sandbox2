@@ -6052,10 +6052,10 @@ gatsby-remark-relative-images@0.3.0:
     slash "^2.0.0"
     unist-util-select "^1.5.0"
 
-gatsby-schema-field-absolute-path@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/gatsby-schema-field-absolute-path/-/gatsby-schema-field-absolute-path-1.1.2.tgz#7f46c186b56d31cd2de69a5813ba5da67d97e367"
-  integrity sha512-vRmTc1mmEIZJ7d2JycETil5nzSFlmv7nYHEXXk3/5TAr/teUZyG5nBJ9vMKIXwdu9+/Ss2yYqUjo5MGX/7dZ3Q==
+gatsby-schema-field-absolute-path@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/gatsby-schema-field-absolute-path/-/gatsby-schema-field-absolute-path-1.2.2.tgz#459de9297ce7a82af0e75266a57643f9a3c75227"
+  integrity sha512-cx2MjB12qmKdBEkND3GLCeBEGSPUzS3riiQa9cdFu9c5qvNpQJXka9FuhesUw6iWO+QH+ndzkDSQeHCrI2vNBQ==
 
 gatsby-source-filesystem@2.3.19:
   version "2.3.19"
