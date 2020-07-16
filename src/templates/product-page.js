@@ -7,7 +7,7 @@ const ProductPage = ({ data }) => {
 
 	return (
 		<Layout>
-			<h1>product page</h1>
+			<h1>Product page</h1>
 			<p>Please check console. Image is coming back as <strong>null</strong>.</p>
 		</Layout>
 	);
